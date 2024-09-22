@@ -1,0 +1,8 @@
+/node_modules
+.serverless
+.webpack
+./dist
+/.vscode
+.env
+*.env
+
